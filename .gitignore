@@ -1,1 +1,5 @@
 __init__.py
+ backend/config/__pycache__/settings.cpython-38.pyc
+backend/apps/__pycache__/
+backend/apps/accounts/__pycache__/
+backend/config/__pycache__/settings.cpython-38.pyc
